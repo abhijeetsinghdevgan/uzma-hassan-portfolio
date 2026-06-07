@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-label="Page sections flow">
+  <rect width="1000" height="180" rx="14" fill="#0a1628"/>
+  <g font-family="Arial, sans-serif" font-size="13" font-weight="700">
+    <rect x="30" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#ff6b2b" stroke-width="2"/>
+    <text x="90" y="98" text-anchor="middle" fill="#fff">Hero</text>
+    <path d="M150 90 H175" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="175,90 168,86 168,94" fill="#ff6b2b"/>
+    <rect x="180" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#334466"/>
+    <text x="240" y="98" text-anchor="middle" fill="#fff">About</text>
+    <path d="M300 90 H325" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="325,90 318,86 318,94" fill="#ff6b2b"/>
+    <rect x="330" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#334466"/>
+    <text x="390" y="98" text-anchor="middle" fill="#fff">Clients</text>
+    <path d="M450 90 H475" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="475,90 468,86 468,94" fill="#ff6b2b"/>
+    <rect x="480" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#334466"/>
+    <text x="540" y="98" text-anchor="middle" fill="#fff">Experience</text>
+    <path d="M600 90 H625" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="625,90 618,86 618,94" fill="#ff6b2b"/>
+    <rect x="630" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#334466"/>
+    <text x="690" y="98" text-anchor="middle" fill="#fff">Skills</text>
+    <path d="M750 90 H775" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="775,90 768,86 768,94" fill="#ff6b2b"/>
+    <rect x="780" y="55" width="120" height="70" rx="12" fill="#112040" stroke="#334466"/>
+    <text x="840" y="98" text-anchor="middle" fill="#fff">Education</text>
+    <path d="M900 90 H925" stroke="#ff6b2b" stroke-width="2"/>
+    <polygon points="925,90 918,86 918,94" fill="#ff6b2b"/>
+    <rect x="930" y="55" width="40" height="70" rx="12" fill="#ff6b2b"/>
+    <text x="950" y="98" text-anchor="middle" fill="#fff" font-size="11">CTA</text>
+  </g>
+  <text x="500" y="30" text-anchor="middle" fill="#8fa3c4" font-family="Arial, sans-serif" font-size="12" letter-spacing="3">SCROLL JOURNEY</text>
+</svg>

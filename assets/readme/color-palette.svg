@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Brand color palette">
+  <rect width="900" height="120" rx="12" fill="#f0f4fa"/>
+  <g font-family="Arial, sans-serif" font-size="12" fill="#4a5a7a">
+    <rect x="24" y="24" width="120" height="56" rx="10" fill="#0a1628"/>
+    <text x="84" y="98" text-anchor="middle">Navy</text>
+    <text x="84" y="112" text-anchor="middle" font-size="10">#0A1628</text>
+    <rect x="164" y="24" width="120" height="56" rx="10" fill="#112040"/>
+    <text x="224" y="98" text-anchor="middle">Navy Mid</text>
+    <text x="224" y="112" text-anchor="middle" font-size="10">#112040</text>
+    <rect x="304" y="24" width="120" height="56" rx="10" fill="#ff6b2b"/>
+    <text x="364" y="98" text-anchor="middle">Orange</text>
+    <text x="364" y="112" text-anchor="middle" font-size="10">#FF6B2B</text>
+    <rect x="444" y="24" width="120" height="56" rx="10" fill="#ff8c55"/>
+    <text x="504" y="98" text-anchor="middle">Orange Light</text>
+    <text x="504" y="112" text-anchor="middle" font-size="10">#FF8C55</text>
+    <rect x="584" y="24" width="120" height="56" rx="10" fill="#f0f4fa" stroke="#d0daea"/>
+    <text x="644" y="98" text-anchor="middle">Paper</text>
+    <text x="644" y="112" text-anchor="middle" font-size="10">#F0F4FA</text>
+    <rect x="724" y="24" width="120" height="56" rx="10" fill="#ffffff" stroke="#d0daea"/>
+    <text x="784" y="98" text-anchor="middle">White</text>
+    <text x="784" y="112" text-anchor="middle" font-size="10">#FFFFFF</text>
+  </g>
+</svg>
